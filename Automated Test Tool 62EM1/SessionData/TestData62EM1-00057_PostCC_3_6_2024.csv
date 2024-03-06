@@ -1,0 +1,2 @@
+Serial #s, Consumption Current (mA), Lo Gate Trig Freq,Hi Gate Trig Freq, DSAT Hi, DSAT Lo, 2L Turn Off Hi, 2L Turn Off Lo, Hi DeadTime,Lo DeadTime, Result, DateTime
+Zober_Test_Setup,121.719,5.00068,5.00001,PASSED,PASSED,PASSING,PASSING,309.2,307.2,PASS,3/6/2024 10:34:46 AM

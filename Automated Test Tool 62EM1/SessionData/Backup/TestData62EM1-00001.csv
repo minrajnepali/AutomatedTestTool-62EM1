@@ -1,0 +1,1 @@
+﻿Serial #s,Lo Off Gate Voltage,Hi On Gate Voltage,Hi Off Gate Voltage,Lo On Gate Voltage,Digital +5V,Hi Pos Vunreg,Hi Neg Vunreg,Hi +5V,Hi -5V,Lo Pos Vunreg,Lo Neg Vunreg,Lo +5V,Lo -5V,Hi  Freq,Hi Duty,Lo Freq,Lo Duty,TempFreq,Temp Duty,DCL Freq,DCL Duty,Hi Gate Trig Freq,Lo Gate Trig Freq,Hi Deatdime,Lo DeadTime
