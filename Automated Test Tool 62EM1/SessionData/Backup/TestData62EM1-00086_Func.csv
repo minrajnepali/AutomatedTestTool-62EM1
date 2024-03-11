@@ -1,2 +1,0 @@
-Serial #s,Lo Off Gate Voltage,Hi On Gate Voltage,Hi Off Gate Voltage,Lo On Gate Voltage,Digital +5V,Hi Pos Vunreg,Hi Neg Vunreg,Hi +5V,Hi -5V,Lo Pos Vunreg,Lo Neg Vunreg,Lo +5V,Lo -5V,Hi  Freq,Hi Duty,Lo Freq,Lo Duty,TempFreq,Temp Duty,DCL Freq,DCL Duty, Result, DateTime
-Test1,0,0,0,0,1.69,0,0,0,0,1.85,0,1.87,0,26666666.67,0,26666666.67,0,50031.27,98.94,50156.74,99.5,FAIL,12/28/2023 12:06:50 PM
