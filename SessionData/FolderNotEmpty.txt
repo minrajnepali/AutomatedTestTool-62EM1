@@ -1,1 +1,0 @@
-This File is to make sure the SessionData Folder is not empty. If this folder is empty, github won't upload the folder.
