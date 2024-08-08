@@ -1,0 +1,3 @@
+Serial #s,Lo Off Gate Voltage,Hi On Gate Voltage,Hi Off Gate Voltage,Lo On Gate Voltage,Digital +5V,Hi Pos Vunreg,Hi Neg Vunreg,Hi +5V,Hi -5V,Lo Pos Vunreg,Lo Neg Vunreg,Lo +5V,Lo -5V,Hi  Freq,Hi Duty,Lo Freq,Lo Duty,TempFreq,Temp Duty,DCL Freq,DCL Duty, Result, DateTime
+ZJ24030750020442RH6,80,99.99,15.74,19.67,97.26,100,4.26,22.43,8.4,5.31,5.4,22.4,8.42,23048.11,99.77,18103.64,99.75,10001.25,49.61,31645.57,49.49,FAIL,8/8/2024 9:29:30 AM
+ZJ24030750020442RH6,3.09,3.86,15.74,19.67,97.26,100,4.26,22.43,8.4,5.31,5.41,22.4,8.42,23061.4,99.77,18095.45,99.68,10000,49.58,31620.55,48.97,FAIL,8/8/2024 9:30:06 AM
